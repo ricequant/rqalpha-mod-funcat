@@ -28,7 +28,7 @@ setup(
     license='Apache License v2',
     package_data={'': ['*.*']},
     install_requires=[
-        'pymongo',
+        'rqfuncat',
     ],
     zip_safe=False,
 )

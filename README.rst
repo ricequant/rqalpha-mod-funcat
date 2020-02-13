@@ -6,12 +6,6 @@ sys_funcat Mod
 
 启用该 Mod ，会自动将 funcat_ 注入 API 到 RQAlpha 中。
 
-该 mod 依赖 funcat_ ，使用前需要安装依赖库：
-
-.. code-block:: bash
-
-    pip install -i https://pypi.douban.com/simple rqfuncat
-
 
 开启或关闭 Mod
 ===============================
